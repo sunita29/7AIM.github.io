@@ -913,11 +913,11 @@ span {
 .foot-note {
   padding: 35px 0;
   background-color: #ee1515;
-  color: #26264b;
+  color: #fff;
 }
 
 .foot-note a {
-  color: #26264b;
+  color: #fff;
 }
 
 .foot-note a:last-child {
