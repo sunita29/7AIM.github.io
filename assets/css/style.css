@@ -357,6 +357,7 @@ form button.btn-primary:hover {
 
 .featured p {
   margin: 35px 0 53px;
+  text-align:justify;
 }
 
 .featured .media i {
@@ -913,11 +914,11 @@ span {
 .foot-note {
   padding: 35px 0;
   background-color: #ee1515;
-  color: #26264b;
+  color: #ddd;
 }
 
 .foot-note a {
-  color: #26264b;
+  color: #ddd;
 }
 
 .foot-note a:last-child {
